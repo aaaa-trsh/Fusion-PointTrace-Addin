@@ -1,4 +1,4 @@
-# Fusion-Trace-Addon
+# Fusion-Trace-Addin
 
 A Fusion 360 addon to trace a point on a driven linkage. 
 
